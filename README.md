@@ -1,7 +1,7 @@
 # Bacteria Genome Assembly
 
 New Pipeline for Bacteria Genome Assembly based on snakemake.
-This Pipeline is currently designed for BGISEQ PE100 WGS data. As for other platforms or strategies, please write me an issue and I will try to adjust the pipeline for more.
+This Pipeline is currently designed for BGISEQ PE100 WGS data. As for other platforms or strategies, please write me an issue and I will try to adjust the pipeline for more.hi
 
 ## Software being used
 
