@@ -7,7 +7,7 @@ This Pipeline is currently designed for BGISEQ PE100 WGS data. As for other plat
 
 - cOMG/OAs1 
 - spades
-- sspace
+- sspace(optional)
 - Barrnap
 - GeneMark-S 2
 
