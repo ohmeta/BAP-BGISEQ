@@ -1,0 +1,22 @@
+requirement:
+  host:
+    - python >=3.5
+    - perl >=5.26
+    - snakemake >=5.4
+  
+  run:
+    - python >=3.5
+    - perl >=5.26
+    - numpy
+    - pandas
+    - perl-svg
+    - biopython
+    - fastp
+    - seqtk
+    - snakemake >=5.4
+    - soapdenovo2
+    - r >=3.5
+    - quast
+    - spades
+    - idba
+    - trimmomatic
