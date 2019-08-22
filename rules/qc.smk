@@ -1,2 +1,2 @@
-rule qc:
+rule QC:
     
