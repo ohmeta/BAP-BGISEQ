@@ -20,3 +20,4 @@ requirement:
     - spades
     - idba
     - trimmomatic
+    - barrnap
